@@ -3,9 +3,12 @@
 </p>
 
 
-## Hi there, I'm Marie-Noël Lepage    👋
+# [<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/linkedin.png" width="24">](https://www.linkedin.com/in/marienoellepage/)    Marie-Noël Lepage
+
 ##### 
   - Education in actuarial science, data science & machine learning and applied artificial intelligence.
+  - Large-scale databases expertise in data collection, pre-processing, exploration, quantitative analysis, predictive modeling, visualization, and communication of results.  
+  - Curious, creative, critical thinker, appreciation to resolve complex problem. My attention to details brings added value especially with problem solving.
 
   
 <!--
