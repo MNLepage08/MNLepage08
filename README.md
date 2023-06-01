@@ -12,7 +12,7 @@
   - Curious, creative, critical thinker, appreciation to resolve complex problem. My attention to details brings added value especially with problem solving.
 
 
-### Data Management Tools :
+### Data Management:
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hadoop.png" title="Hadoop" alt="Java" width="100" height="30"/>&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pig.png" title="Pig" alt="Java" width="70" height="33"/>&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hive.png" title="Hive" alt="Java" width="40" height="30"/>&nbsp;
