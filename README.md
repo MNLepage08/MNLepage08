@@ -1,3 +1,7 @@
+<p align=”center”> 
+<img width="774" alt="Capture d’écran, le 2023-06-01 à 14 12 42" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/f9763d84-c05f-4a92-9769-99e4cf8c5ea2">
+</p>
+
 ### Hi there 👋
 
 <!--
