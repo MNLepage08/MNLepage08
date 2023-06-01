@@ -10,6 +10,7 @@
   - Large-scale databases expertise in data collection, pre-processing, exploration, quantitative analysis, predictive modeling, visualization, and communication of results.  
   - Curious, creative, critical thinker, appreciation to resolve complex problem. My attention to details brings added value especially with problem solving.
 
+### :hammer_and_wrench: Languages and Tools :
   
 <!--
 **MNLepage08/MNLepage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
