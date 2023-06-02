@@ -30,15 +30,17 @@
   - [Meetup stream: ](https://github.com/MNLepage08/Project-Report/blob/main/GR_05-F2021A3.pdf)Implement a POC to ingest Meetup data using their REST API into Kafka topics collected by Flume agent and read from the Nifi flow. Filter the input data, convert it to parquet format and store it on HDFS. Analyze the data and generate a summary using Hive, Impala and Spark SQL. Export data with Sqoop to enrich an existing database.
 
 #
-### Unsupervised Learning:
+### Supervised Learning:
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Numpy.png" title="Numpy" alt="Java" width="80" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pandas.png" title="Pandas" alt="Java" width="80" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Scikit-Learn.png" title="Scikit-Learn" alt="Java" width="70" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Matplotlib.png" title="Matplotlib" alt="Java" width="100" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Seaborn.png" title="Seaborn" alt="Java" width="100" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/alteryx.png" title="Alteryx" alt="Java" width="100" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Tableau.png" title="Tableau" alt="Java" width="80" height="30"/>&nbsp;
-  
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/alteryx.png" title="Alteryx" alt="Java" width="90" height="25"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Tableau.png" title="Tableau" alt="Java" width="70" height="30"/>&nbsp;
+
+  - [Statistical Machine Learning: ](https://github.com/MNLepage08/YCBS-255) Model: Regression, classification, Naive Bayesian, KNN, LDA, QDA, decision tree, random forest, XGBoost, LightGBM, SVM. Model evaluation and resampling methods, model and variable selection.
+  - [Teamwork to predict the level of fire risk in the city of Montreal by time and area: ](https://github.com/MNLepage08/Project-Report/blob/main/Executive%20Report.pdf) Collect geospatial data and cleaned up non-building related data. Explore data to find highlight. Feature engineering for aggregate area and time frame with Alteryx, trigo projection trick & lag features on time. Use Balanced Random Forest model for imbalanced data and time series cross-validation. Macro ROC of 81% and macro recall of 61%. Visualization with Tableau and communication of results.
 
 <!--
 **MNLepage08/MNLepage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
