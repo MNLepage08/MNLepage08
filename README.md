@@ -62,7 +62,7 @@
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pyts.png" title="Pyts" alt="Java" width="60" height="30"/>&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/StatsModels.png" title="Statsmodels" alt="Java" width="130" height="30"/>&nbsp;&nbsp;
 
-  - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-233)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech. 
+  - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-232)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech. 
   - [Time Series Analysis Fundamentals: ](https://github.com/MNLepage08/YCNG-233)
 
 
