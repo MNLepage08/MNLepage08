@@ -13,7 +13,7 @@
 
 #
 ### Data Management:
-  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hadoop.png" title="Hadoop" alt="Java" width="100" height="30"/>&nbsp;&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hadoop.png" title="Hadoop" alt="Java" width="100" height="30"/>&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pig.png" title="Pig" alt="Java" width="70" height="33"/>&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hive.png" title="Hive" alt="Java" width="40" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/cloudera_impala.png" title="Impala" alt="Java" width="80" height="30"/>&nbsp;&nbsp;
@@ -23,7 +23,7 @@
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Kafka.png" title="Kafka" alt="Java" width="55" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Spark.png" title="Spark" alt="Java" width="50" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Solr.png" title="Solr" alt="Java" width="60" height="30"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hbase.png" title="HBase" alt="Java" width="85" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hbase.png" title="HBase" alt="Java" width="85" height="30"/>
   
   - [NYC yellow taxi: ](https://github.com/MNLepage08/Project-Report/blob/main/GR_05-F2021A2.pdf) Ingest TLC data into HDFS. Clean, normalize and filter datasets using Pig Latin scripts. Load cleaned data into Hive and Impala for data analysis.
   - [Real-Time financial market: ](https://github.com/MNLepage08/Project-Report/blob/main/GR_05-F2021A2.pdf)Create a Nifi flow to ingest data from IEX Cloud using their REST API. Split JSON data into three main components. Store on HDFS as parquet files. Create a Hive and Impala table to read and generate a basic summary. Display the results using Tableau.
