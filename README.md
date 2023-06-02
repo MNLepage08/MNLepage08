@@ -11,7 +11,7 @@
   - Large-scale databases expertise in data collection, pre-processing, exploration, quantitative analysis, predictive modeling, visualization, and communication of results.  
   - Curious, creative, critical thinker, appreciation to resolve complex problem. My attention to details brings added value especially with problem solving.
 
-
+#
 ### Data Management:
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hadoop.png" title="Hadoop" alt="Java" width="100" height="30"/>&nbsp;
   <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pig.png" title="Pig" alt="Java" width="70" height="33"/>&nbsp;
@@ -29,6 +29,16 @@
   - [Real-Time financial market: ](https://github.com/MNLepage08/Project-Report/blob/main/GR_05-F2021A2.pdf)Create a Nifi flow to ingest data from IEX Cloud using their REST API. Split JSON data into three main components. Store on HDFS as parquet files. Create a Hive and Impala table to read and generate a basic summary. Display the results using Tableau.
   - [Meetup stream: ](https://github.com/MNLepage08/Project-Report/blob/main/GR_05-F2021A3.pdf)Implement a POC to ingest Meetup data using their REST API into Kafka topics collected by Flume agent and read from the Nifi flow. Filter the input data, convert it to parquet format and store it on HDFS. Analyze the data and generate a summary using Hive, Impala and Spark SQL. Export data with Sqoop to enrich an existing database.
 
+#
+### Unsupervised Learning:
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Numpy.png" title="Numpy" alt="Java" width="80" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pandas.png" title="Pandas" alt="Java" width="80" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Scikit-Learn.png" title="Scikit-Learn" alt="Java" width="70" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Matplotlib.png" title="Matplotlib" alt="Java" width="100" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Seaborn.png" title="Seaborn" alt="Java" width="100" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/alteryx.png" title="Alteryx" alt="Java" width="100" height="30"/>&nbsp;
+  <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Tableau.png" title="Tableau" alt="Java" width="80" height="30"/>&nbsp;
+  
 
 <!--
 **MNLepage08/MNLepage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
