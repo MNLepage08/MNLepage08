@@ -49,7 +49,8 @@
 ### Unsupervised Learning:
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/TensorFlow.png" title="TensorFlow" alt="Java" width="100" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Keras.png" title="Keras" alt="Java" width="90" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hugging%20Face.png" title="Hugging Face" alt="Java" width="120" height="30"/>&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Hugging%20Face.png" title="Hugging Face" alt="Java" width="120" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Facets.png" title="Facets" alt="Java" width="90" height="30"/>&nbsp;
 
   - [Practical Machine Learning: ](https://github.com/MNLepage08/YCBS-258)Neural networks in various applications, including image processing, text mining, time series, anomaly detection, reinforcement learning. This includes, but is not limited to: Residual neural network (ResNet), LSTM, CNN, Auto-Encoder, BERT and Transformer, tips for improving performance. Production implementation with GCP and TensorFlow.
   - [Neural Network and Deep Learning: ](https://github.com/MNLepage08/YCNG-229)Build models with functional API (custom layers, models, loss functions, training). Use transfer learning, fine-tuning, some architecture model (GAN, Siamese NN) and transformer model (BERT, Zero-Shot). Project on document image understanding and information extraction task with PaddleOCR and LayoutLM model.
@@ -67,7 +68,7 @@
 
 #
 ### DevOps:
-<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Flask.png" title="Flask" alt="Java" width="70" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Flask.png" title="Flask" alt="Java" width="60" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/GitHub.png" title="GitHub" alt="Java" width="80" height="27"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Docker.png" title="Docker" alt="Java" width="100" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/GCP.png" title="GCP" alt="Java" width="120" height="30"/>&nbsp;&nbsp;
