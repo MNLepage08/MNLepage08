@@ -9,7 +9,6 @@
 ##### 
   - Education in actuarial science, data science & machine learning and applied artificial intelligence.
   - Large-scale databases expertise in data collection, pre-processing, exploration, quantitative analysis, predictive modeling, visualization, and communication of results.  
-  - Curious, creative, critical thinker, appreciation to resolve complex problem. My attention to details brings added value especially with problem solving.
 
 
 #
