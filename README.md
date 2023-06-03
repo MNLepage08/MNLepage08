@@ -59,8 +59,11 @@
 ### NLP & Time Series:
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/R.png" title="R" alt="Java" width="40" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/NLTK.png" title="NLTK" alt="Java" width="60" height="27"/>&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Spacy.png" title="Spacy" alt="Java" width="70" height="27"/>&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pyts.png" title="Pyts" alt="Java" width="60" height="27"/>&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/StatsModels.png" title="Statsmodels" alt="Java" width="130" height="30"/>&nbsp;&nbsp;
+
+
 
   - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-232)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech. 
   - [Time Series Analysis Fundamentals: ](https://github.com/MNLepage08/YCNG-233)
