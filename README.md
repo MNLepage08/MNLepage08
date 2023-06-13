@@ -53,7 +53,7 @@
 
   - [Practical Machine Learning: ](https://github.com/MNLepage08/YCBS-258)Neural networks in various applications, including image processing, text mining, time series, anomaly detection, reinforcement learning. This includes, but is not limited to: Residual neural network (ResNet), LSTM, CNN, Auto-Encoder, BERT and Transformer, tips for improving performance. Production implementation with GCP and TensorFlow.
   - [Neural Network and Deep Learning: ](https://github.com/MNLepage08/YCNG-229)Build models with functional API (custom layers, models, loss functions, training). Use transfer learning, fine-tuning, some architecture model (GAN, Siamese NN) and transformer model (BERT, Zero-Shot). Project on document image understanding and information extraction task with PaddleOCR and LayoutLM model.
-  - [LangChain Mode: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate English to SQL and use GPT2 for text generation from Hugging Face.
+  - [LangChain Model: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate English to SQL and use GPT2 for text generation from Hugging Face.
 
 
 #
