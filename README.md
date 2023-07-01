@@ -67,7 +67,7 @@
 
 
   - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-232)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech.
-  - [LangChain Model: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate an English sequence into a SQL query, use GPT2 for text generation, Questions & Answer into loaded documents, use Replicate to Questions & Answer step-by-step, create an image from text, create chain calls by a sequential.
+  - [LangChain Model: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate an English sequence into a SQL query, use GPT2 for text generation, Question & Answer into loaded documents, use Replicate to Question & Answer step-by-step, create an image from text, create chain calls by a sequential.
   - [Time Series Analysis Fundamentals: ](https://github.com/MNLepage08/YCNG-233)
 
 
