@@ -78,7 +78,7 @@
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Docker.png" title="Docker" alt="Java" width="100" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/GCP.png" title="GCP" alt="Java" width="120" height="30"/>&nbsp;&nbsp;
 
-  - [Predictive & Classification Modelling: ](https://github.com/MNLepage08/YCNG-228)Design a web application to give predictions on S&P500 market stocks at the end of each day. Collect data from yahoo finance. Data exploration: research & literature for technical indicators, autocorrelation on close price, cluster by sectors / stocks.  Feature engineering with trigo projection trick and moving average. Use LightGBM model with time series cross-validation. Balanced accuracy of 52%.
+  - [Predictive & Classification Modelling: ](https://github.com/MNLepage08/YCNG-288-DevOps)Design a web application to give predictions on S&P500 market stocks at the end of each day. Collect data from yahoo finance. Data exploration: research & literature for technical indicators, autocorrelation on close price, cluster by sectors / stocks.  Feature engineering with trigo projection trick and moving average. Use LightGBM model with time series cross-validation. Balanced accuracy of 52%.
 
 
 <!--
