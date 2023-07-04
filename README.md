@@ -72,7 +72,7 @@
 
 
 #
-### DevOps:
+### MLOps:
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Flask.png" title="Flask" alt="Java" width="60" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/GitHub.png" title="GitHub" alt="Java" width="80" height="27"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Docker.png" title="Docker" alt="Java" width="100" height="30"/>&nbsp;&nbsp;
