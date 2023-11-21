@@ -7,7 +7,7 @@
 
 
 ##### 
-  - Education in actuarial science, data science & machine learning and applied artificial intelligence.
+  - Education in actuarial science (B.Sc. / UQAM), data science & machine learning and applied artificial intelligence (professional certificate / McGill), Student master's degree in computer science - artificial intelligence (Laval).
   - Large-scale databases expertise in data collection, pre-processing, exploration, quantitative analysis, predictive modeling, visualization, and communication of results.  
 
 
