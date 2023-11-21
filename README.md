@@ -56,20 +56,22 @@
 
 
 #
-### NLP & Time Series & Recommender Systems:
+### NLP, Time Series, and Recommender Systems:
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/R.png" title="R" alt="Java" width="40" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/NLTK.png" title="NLTK" alt="Java" width="60" height="27"/>&nbsp;
 <img width="60" alt="Capture d’écran, le 2023-06-29 à 15 55 26" src="https://github.com/MNLepage08/YCNG-233/assets/113123425/7e7d686c-6e98-4a19-93f6-5ea0a2b491a9">
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Spacy.png" title="Spacy" alt="Java" width="70" height="27"/>&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Pyts.png" title="Pyts" alt="Java" width="60" height="27"/>&nbsp;
 <img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/StatsModels.png" title="Statsmodels" alt="Java" width="130" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/Implicit.png" title="Implicit" alt="Java" width="90" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/MNLepage08/MNLepage08/blob/main/Images/LightFM.png" title="LightFM" alt="Java" width="80" height="30"/>&nbsp;&nbsp;
 
 
 
   - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-232)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech.
   - [LangChain Model: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate an English sequence into a SQL query, use GPT2 for text generation, Question & Answer into loaded documents, use Replicate to Question & Answer step-by-step, create an image from text, create chain calls by a sequential.
   - [Time Series Analysis Fundamentals: ](https://github.com/MNLepage08/YCNG-233)Variety of techniques such as statistical, machine learning based approach and deep learning. Advanced techniques that could help futher improve the learning performance, such as ensemble learning, graph neural networks, transformer, transfer learning, meta-learning, and multitask learning.
-  - [Recommender Systems:](https://github.com/MNLepage08/YCNG-235)
+  - [Recommender Systems:](https://github.com/MNLepage08/YCNG-235) Fundamental concepts and techniques in recommender systems such as non-presonalized / personalized, similarity models, contend-based, collaborative filterinf, hybrid systems, matrix factorization, graph-based models, evaluation of recommender systems.
 
 
 #
