@@ -71,7 +71,7 @@
   - [NLP Fundamentals: ](https://github.com/MNLepage08/YCNG-232)Topic detection, sentiment analysis, tagging, POS, word network, correction & prediction, normalization & lemmatization, vectorization, chatbots and speech.
   - [LangChain Model: ](https://github.com/MNLepage08/Project-Report/blob/main/LangChain_with_HuggingFace_Hub.ipynb) Translate an English sequence into a SQL query, use GPT2 for text generation, Question & Answer into loaded documents, use Replicate to Question & Answer step-by-step, create an image from text, create chain calls by a sequential.
   - [Time Series Analysis Fundamentals: ](https://github.com/MNLepage08/YCNG-233)Variety of techniques such as statistical, machine learning based approach and deep learning. Advanced techniques that could help futher improve the learning performance, such as ensemble learning, graph neural networks, transformer, transfer learning, meta-learning, and multitask learning.
-  - [Recommender Systems:](https://github.com/MNLepage08/YCNG-235) Fundamental concepts and techniques in recommender systems such as non-presonalized / personalized, similarity models, contend-based, collaborative filterinf, hybrid systems, matrix factorization, graph-based models, evaluation and MLOps of recommender systems.
+  - [Recommender Systems:](https://github.com/MNLepage08/YCNG-235) Fundamental concepts and techniques in recommender systems such as non-presonalized / personalized, similarity models, contend-based, collaborative filtering, hybrid systems, matrix factorization, graph-based models, evaluation and MLOps of recommender systems.
 
 
 #
